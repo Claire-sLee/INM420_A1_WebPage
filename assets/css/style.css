@@ -234,7 +234,7 @@ body {
   }
 
   .nav-links {
-    display: flex !important;  /* 꼭 보여줘야 하니까 !important 써줘도 됨 */
+    display: flex !important;
     align-items: center;
     justify-content: center;
     gap: 1.2rem;
